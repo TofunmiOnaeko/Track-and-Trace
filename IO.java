@@ -1,28 +1,4 @@
-/*
-The programme CSC8011 track and trace has been created to take event details that have been input using the keyboard,
-save those details to an Array List and return filtered results.
-
-Resources:
-1. https://howtodoinjava.com/java/date-time/localdate-parse-string/ - examples used to understand how to turn a String into a local date to be able to filter by it.
-Original Author: Lokesh Gupta
-Modifying Author: Tofunmi Onaeko
-
-2. https://beginnersbook.com/2014/01/how-to-convert-12-hour-time-to-24-hour-date-in-java/ - examples used to understand how to change a 12 hour clock (hh:mm) into a 24 hour clock (HH:mm).
-Original Author: Chaitanya Singh
-Modifying Author: Tofunmi Onaeko
-
-3. https://ncl.instructure.com/courses/24644/pages/assessment-demo-1?module_item_id=1297844 - used canvas demos and lecture notes as a starting point for the Event, User and Establishment classes and to check various concepts.
-Original Author: Jordan Barnes
-Modifying Author: Tofunmi Onaeko
-
-4. https://nucode.ncl.ac.uk/scomp/msc-computer-science/csc8011/code-examples-from-videos - used to check various concepts, i.e. switch statements, for loops and calling methods
-Original Author: Jordan Barnes
-Modifying Author: Tofunmi Onaeko
-
-5. https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html - used to understand how to calculate the Years between two dates
-Original Author: Unknown
-Modifying Author: Tofunmi Onaeko
-*/
+//This class was created to run the program
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
